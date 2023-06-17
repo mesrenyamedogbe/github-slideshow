@@ -1,6 +1,6 @@
 # 用於介紹 GitHub 的 GitHub 學習實驗室存儲庫
 
-歡迎來到**your** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+歡迎來到**你的**GitHub 學習實驗室課程的存儲庫。這個存儲庫將在我將指導您完成的不同活動中使用。看到一個你不明白的詞？我們在一些關鍵術語旁邊添加了表情符號 📖。單擊它以查看其定義。
 
 哦！我還沒自我介紹...
 
