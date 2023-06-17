@@ -4,7 +4,7 @@ Bienvenue à**ton**référentiel pour votre cours GitHub Learning Lab. Ce réfé
 
 Oh! Je ne me suis pas présenté...
 
-Je suis le bot GitHub Learning Lab et je suis là pour vous guider dans votre parcours pour apprendre et maîtriser les différents sujets abordés dans ce cours. J'utiliserai les commentaires Issue et Pull Request pour communiquer avec vous. En fait, j'ai déjà ajouté un problème à vérifier.
+I'm the GitHub Learning Lab bot and I'm here to help guide you in your journey to learn and master the various topics covered in this course. I will be using Issue and Pull Request comments to communicate with you. In fact, I already added an issue for you to check out.
 
 ![issue tab](https://lab.github.com/public/images/issue_tab.png)
 
