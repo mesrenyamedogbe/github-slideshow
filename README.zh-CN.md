@@ -1,6 +1,6 @@
 # 用于介绍 GitHub 的 GitHub 学习实验室存储库
 
-欢迎来到**你的** repository for your GitHub Learning Lab course. This repository will be used during the different activities that I will be guiding you through. See a word you don't understand? We've included an emoji 📖 next to some key terms. Click on it to see its definition.
+欢迎来到**你的**GitHub 学习实验室课程的存储库。这个存储库将在我将指导您完成的不同活动中使用。看到一个你不明白的词？我们在一些关键术语旁边添加了表情符号 📖。单击它以查看其定义。
 
 哦！我还没自我介绍...
 
@@ -10,4 +10,4 @@
 
 我会在那里见到你，等不及要开始了！
 
-本课程使用 :sparkles: 开源项目[揭示.js](https://github.com/hakimel/reveal.js/).在某些情况下，我们对历史进行了更改，以便它在课堂上表现良好，因此请前往原始项目回购以了解更多关于该项目背后的酷人的信息。
+本课程使用 :sparkles: 开源项目[揭示.js](https://github.com/hakimel/reveal.js/). In some cases we’ve made changes to the history so it would behave during class, so head to the original project repo to learn more about the cool people behind this project.
